@@ -9,7 +9,7 @@ QuickPredict is a GUI that is designed to make Machine Learning more accessible 
 - Open your terminal (or your command prompt) in the folder that contains all the python codes.
 - Type: `python3 driver.py` to start the tool
 
-![Your tool should be ready!](https://imgur.com/fRClk5R)
+![Your tool should be ready!](https://user-images.githubusercontent.com/46783458/83266724-d8c8b580-a1e0-11ea-8827-58033c3a8153.png)
 
 - Click on **Open Data File** to open your .csv file containing the data-set
 - Choose your pre-processing needs and when you're ready, choose the classifier of your choice
